@@ -23,9 +23,10 @@ What follows are instructions on how to install the plugin and get it working.
 ### Using The WordPress Dashboard (Recommended) ###
 
 1. Navigate to *Plugins → Add New* from within the WordPress Dashboard.
-2. Search for `subtitles`.
-3. Click **Install Now** on *Subtitles* by We Cobble.
-4. Activate the plugin.
+dsdsd
+3. Search for `subtitles`.
+4. Click **Install Now** on *Subtitles* by We Cobble.
+5. Activate the plugin.
 
 ### Uploading in WordPress Dashboard ###
 
